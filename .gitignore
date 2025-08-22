@@ -54,3 +54,4 @@ Thumbs.db
 
 #nx
 .nx/cache/*
+.env
